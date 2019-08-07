@@ -89,4 +89,8 @@ def convert(infile):
           
 
 if __name__=='__main__':
-    convert(sys.argv[1])
+    if len(sys.argv) < 2:
+        print('please type the json file name or path')
+        exit(0)
+    else:
+        convert(sys.argv[1])
