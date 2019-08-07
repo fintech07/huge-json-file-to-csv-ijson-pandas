@@ -1,0 +1,2 @@
+measurement_date;client;station_id;device_id;meter_id;operator;ping_packet_loss;ping_min;ping_avg;ping_max;speed_upload;speed_download;network_technology;frequency;MCC;MNC;BAND;ARFCN;BSIC;Cell_ID;LAC;RXLEV;RxQuality;TA;PSC;RSCP;EC/N0;DRX;URA;PCI;TAC;RSRP;RSRQ;rssi;wcdma_ecio;lte_sinr;SYNC_ID;SC;RAC;network_error;network_bts_location_lat;network_bts_location_long
+"06.08.2019 11:27:49.000000";TS;;a43404a1;1;;;;;;;;LTE;BAND1,BAND2,BAND3,BAND4,BAND5,BAND7,BAND8,BAND20;262;3;;;;;;;;;;;;;;;;;;;;;;;;"No network service";;
